@@ -63,10 +63,13 @@
     <tr>
         <th>西汉</th> <!朝代>
         <th>
+            <a href = "https://baike.baidu.com/item/%E6%B1%89%E4%B9%90%E5%BA%9C/291597">《汉乐府》</a><br><br>
             医学4书：<br>
             《黄帝内经》<br>《神农本草经》<br>
         </th> <!书籍>
-        <th></th> <!古诗歌>
+        <th>
+            <a href = "https://baike.baidu.com/item/%E6%B1%9F%E5%8D%97/10633535">小学 1 江南 《汉乐府》 </a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
