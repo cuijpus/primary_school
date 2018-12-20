@@ -130,6 +130,9 @@
             <a href = "https://so.gushiwen.org/shiwenv_ccee5691ba93.aspx">小学 10 春晓 孟浩然</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_9312f5349cd7.aspx">小学 11 凉州词二首·其一 王翰</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_b9e14c6e09aa.aspx">小学 12 出塞二首·其一 王昌龄</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f433a64dd504.aspx">小学 13 芙蓉楼送辛渐 王昌龄</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_e9b1a8b4def0.aspx">小学 14 芙蓉楼送辛渐 王维</a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_aff9d6f4ad.aspx">小学 15 送元二使安西 王维</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
