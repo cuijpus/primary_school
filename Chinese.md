@@ -133,6 +133,14 @@
             <a href = "https://so.gushiwen.org/shiwenv_f433a64dd504.aspx">小学 13 芙蓉楼送辛渐 王昌龄</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_e9b1a8b4def0.aspx">小学 14 芙蓉楼送辛渐 王维</a> <br>
             <a href = "https://www.gushiwen.org/GuShiWen_aff9d6f4ad.aspx">小学 15 送元二使安西 王维</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_d75a706935de.aspx">小学 16 九月九日忆山东兄弟 王维</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_c35a60c1a8e2.aspx">小学 17 静夜思 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_04c68a9b161e.aspx">小学 18 古朗月行 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_62802abab937.aspx">小学 19 望庐山瀑布 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_ca9eaf40a6ce.aspx">小学 20 赠汪伦 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_d3f231047aef.aspx">小学 21 黄鹤楼送孟浩然之广陵 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_0f81015a040c.aspx">小学 22 早发白帝城 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_97e6296bfb8d.aspx">小学 23 望天门山 李白</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
