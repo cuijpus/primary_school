@@ -49,11 +49,6 @@
         </th> <!书籍>
         <th  align="left">
             <a href = "https://so.gushiwen.org/shiwenv_d6640103678f.aspx">初中 41 论语十二章 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_0c4d9d86a850.aspx">初中 42 曹刿论战 《左传》 </a> <br>
-            <a href = "https://zhidao.baidu.com/question/1835983881963530780.html">初中 43 孟子三则 《孟子》 </a> <br>
-            <a href = "https://baike.baidu.com/item/%E5%BA%84%E5%AD%90%E4%B8%80%E5%88%99/7335476?fr=aladdin">初中 44 庄子一则 《庄子》 </a> <br>
-            <a href = "https://zhidao.baidu.com/question/264437243471407205.html">初中 45 庄子一则 《庄子》 </a> <br>
-            <a href = "http://www.ruiwen.com/guji/1348194.html">初中 46 列子一则 《列子》 </a> <br>
             <a href = "https://www.gushiwen.org/GuShiWen_d15c869342.aspx">初中 47 邹忌讽齐王纳谏 《战国策》 </a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
@@ -134,28 +129,8 @@
             《唐诗》<br>
         </th> <!书籍>
         <th align="left">
-            <a href = "https://so.gushiwen.org/shiwenv_5775c79bcd34.aspx">初中 7 送杜少府之任蜀州 王勃</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_4083a01ac833.aspx">初中 8 登幽州台歌 陈子昂</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_720b46d38537.aspx">初中 9 次北固山下 王湾</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_eae647c5c110.aspx">初中 10 使至塞上 王维</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_62280919c9c5.aspx">初中 11 闻王昌龄左迁龙标遥有此寄 李白</a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_2cc21b2a7c.aspx">初中 12 行路难 李白</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_b0d3f72465ef.aspx">初中 13 黄鹤楼 崔颢</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_efec283b31e0.aspx">初中 14 望岳 杜甫</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_89d3a63c6d7f.aspx">初中 15 春望 杜甫</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_8e9ecc95d6a4.aspx">初中 16 茅屋为秋风所破歌 杜甫</a> <br>
-            <a href = "https://www.gushiwen.org/mingju_874.aspx/GuShiWen_8e91b4822c.aspx">初中 17 白雪歌送武判官归京 岑参</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_2716dfb4d439.aspx">初中 19 卖炭翁 白居易</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_af218ed70405.aspx">初中 20 钱塘湖春行 白居易</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_a60e7fd3031b.aspx">初中 21 雁门太守行 李贺</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_3fb397218a1e.aspx">初中 22 赤壁 杜牧</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_8e8011f614fb.aspx">初中 23 泊秦淮 杜牧</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_e46c43d13b97.aspx">初中 24 夜雨寄北 李商隐</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_1a4c484f9364.aspx">初中 25 无题·相见时难别亦难 李商隐</a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_c43da55262.aspx">初中 52 杂说·马说 韩愈</a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_8668c00359.aspx">初中 53 陋室铭 刘禹锡</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_1ab58966cf83.aspx">初中 54 小石潭记 柳宗元</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_eeb3869b6242.aspx">小学 4 咏鹅 骆宾王</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_8bc9e1cc2b8f.aspx">小学 5 风 李峤</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -169,16 +144,6 @@
         </th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 3 十五从军征 《乐府诗集》</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_76a124fc2fb8.aspx"> 初中 27 渔家傲 秋思 范仲淹 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_eda29e11ff49.aspx"> 初中 28 浣溪沙 晏殊 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_4a272f472fee.aspx"> 初中 29 登飞来峰 王安石 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_85b8792a66ac.aspx"> 初中 30 江城子·密州出猎 苏轼 </a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_4f0088c6b2.aspx"> 初中 31 水调歌头 苏轼 </a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_1912df3ee4.aspx"> 初中 32 渔家傲·天接云涛连晓雾 李清照 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f3d6556dbcad.aspx"> 初中 55 岳阳楼 范仲淹 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_5cbf5b7be38f.aspx"> 初中 56 醉翁亭记 欧阳修 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_6d2dcbe80f96.aspx"> 初中 57 爱莲说 周敦颐 </a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_de9531d68b.aspx"> 初中 58 记承天寺夜游 苏轼 </a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
@@ -192,9 +157,6 @@
         </th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_09294abb5f67.aspx"> 初中 33 游山西村 陆游 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_3cfc9856b57a.aspx"> 初中 34 南乡子·登京口北固亭有怀 辛弃疾 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_9822debcdc64.aspx"> 初中 35 破阵子·为陈同甫赋壮词以寄之 辛弃疾 </a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_5796865dca4a.aspx"> 初中 36 过零丁洋 文天祥 </a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
