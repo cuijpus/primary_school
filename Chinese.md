@@ -67,8 +67,9 @@
             医学4书：<br>
             《黄帝内经》<br>《神农本草经》<br>
         </th> <!书籍>
-        <th>
+        <th align="left">
             <a href = "https://baike.baidu.com/item/%E6%B1%9F%E5%8D%97/10633535">小学 1 江南 《汉乐府》 </a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_ab18ab0a9c.aspx">小学 2 长歌行 《汉乐府》 </a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -113,10 +114,7 @@
             《千字文》<br>
         </th> <!书籍>
         <th align="left">
-            <a href = "https://so.gushiwen.org/shiwenv_2d6b0c83a500.aspx">初中 6 木兰诗 《北朝民歌》</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_804144e6b0dd.aspx">初中 26 相见欢·无言独上西楼 李煜</a> <br>
-            <a href = "https://www.gushiwen.org/GuShiWen_92eec73cfe.aspx">初中 50 答谢中书书 南朝 陶弘景</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_e3a32488d62a.aspx">初中 51 三峡 北朝 郦道元</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f996111bff75.aspx">小学 3 敕勒歌 《北朝民歌》</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
