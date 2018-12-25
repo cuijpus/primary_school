@@ -151,6 +151,9 @@
             <a href = "https://so.gushiwen.org/shiwenv_161d06b0b556.aspx">小学 31 游子吟 孟郊</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_7e09f12b287c.aspx">小学 32 早春呈水部张十八员外 韩愈</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_ee72baa043c8.aspx">小学 33 渔歌子 张志和</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_9a9463173105.aspx">小学 34 和张仆射塞下曲·其三 卢纶</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_880912218fc8.aspx">小学 35 望洞庭 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_857567307e6a.aspx">小学 36 浪淘沙·九曲黄河万里沙 刘禹锡</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
