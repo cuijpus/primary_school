@@ -149,6 +149,8 @@
             <a href = "https://so.gushiwen.org/shiwenv_6fb73f607ad3.aspx">小学 29 枫桥夜泊 张继</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_f6bd6356c843.aspx">小学 30 滁州西涧 韦应物</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_161d06b0b556.aspx">小学 31 游子吟 孟郊</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_7e09f12b287c.aspx">小学 32 早春呈水部张十八员外 韩愈</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_ee72baa043c8.aspx">小学 33 渔歌子 张志和</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
