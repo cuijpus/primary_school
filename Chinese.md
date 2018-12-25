@@ -146,6 +146,9 @@
             <a href = "https://so.gushiwen.org/shiwenv_d48451f00541.aspx">小学 26 春夜喜雨 杜甫</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_03b34d6fdc1b.aspx">小学 27 绝句二首 杜甫</a> <br>            
             <a href = "https://so.gushiwen.org/shiwenv_7ef63cf7f13c.aspx">小学 28 江畔独步寻花·其六 杜甫</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_6fb73f607ad3.aspx">小学 29 枫桥夜泊 张继</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6bd6356c843.aspx">小学 30 滁州西涧 韦应物</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_161d06b0b556.aspx">小学 31 游子吟 孟郊</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
