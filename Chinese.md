@@ -141,6 +141,11 @@
             <a href = "https://so.gushiwen.org/shiwenv_d3f231047aef.aspx">小学 21 黄鹤楼送孟浩然之广陵 李白</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_0f81015a040c.aspx">小学 22 早发白帝城 李白</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_97e6296bfb8d.aspx">小学 23 望天门山 李白</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_4b3ccba01be6.aspx">小学 24 别董大二首 高适</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_549473b5211c.aspx">小学 25 绝句 杜甫</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_d48451f00541.aspx">小学 26 春夜喜雨 杜甫</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_03b34d6fdc1b.aspx">小学 27 绝句二首 杜甫</a> <br>            
+            <a href = "https://so.gushiwen.org/shiwenv_7ef63cf7f13c.aspx">小学 28 江畔独步寻花·其六 杜甫</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
